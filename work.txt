@@ -1,0 +1,10 @@
+Going through dynamo DB and Document DB.
+Creating AWS free tier account.
+Experiment on AWS comprehend but didn’t go ahead with it because of high cost.
+Generating training datasets from data sources(webz, newscatcher, mediastack & newsapi).
+Got AWS official account.
+Creating IAM accounts and groups in AWS.
+Setting up budget for AWS account as $500 which later went up to $2000.
+Creating input and output S3 buckets.
+Creating studio app in AWS Sagemaker for the data scientist team.
+Gap analysis and feature mapping- mapping UI with backend data elements.
