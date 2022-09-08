@@ -1,5 +1,4 @@
-Going through dynamo DB and Document DB.
-Creating AWS free tier account.
-Experiment on AWS comprehend but didn’t go ahead with it because of high cost.
-Generating training datasets from data sources(webz, newscatcher, mediastack & newsapi)
+document db
 athena
+dynamo db
+redshift
