@@ -1,6 +1,0 @@
-document db
-athena
-dynamo db
-neptune db
-redshift
-tableau
